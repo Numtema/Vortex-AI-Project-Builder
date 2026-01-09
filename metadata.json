@@ -1,0 +1,8 @@
+{
+  "name": "Vortex AI Project Builder",
+  "description": "A comprehensive SaaS platform that transforms natural language descriptions into complete software architectures and codebases, featuring a conversation-driven workspace and live IDE preview.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
